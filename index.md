@@ -2,7 +2,8 @@
 
 this is where im gonna put the stuff i make that *probably* works
 
-[This Site](https://hedgr.github.io)   [this site on github's side](https://github.com/Hedgr/hedgr.github.io)
+[This Site](https://hedgr.github.io)   
+[this site on github's side](https://github.com/Hedgr/hedgr.github.io)
 this site but links for easy access
 
 [Roll the Dice](https://github.com/Hedgr/roll_the_dice)
@@ -10,5 +11,48 @@ gets a random number between 2 numbers you can choose (plus a bit of QOL stuff)
 
 [A Bad Clock](https://github.com/Hedgr/time_test)
 its a bad clock that i made overcomplicated
+
+## ====== random interesting websites for your browsing ======
+
+[google sky](https://google.com/sky)
+cool picture of the sky (also has google moon and mars available from the site)
+
+[the useless web](https://theuselessweb.com)
+another site dedicated to interesting sites
+
+[the food content of a wooden table (yes im serious)](https://www.myfitnesspal.com/food/calories/alfahores-196555419)
+refer to title of the site
+
+[ray optics simulation](https://ricktu288.github.io/ray-optics/simulator/)
+basically simulates light
+
+[some pixels fighting](https://pixelsfighting.com/)
+idk its kinda interesting if you are just sitting there in class
+
+[water simulation](https://www.escapemotions.com/experiments/fluid_water_3/)
+it simulates water (and some other stuff)
+
+[the powder toy](https://powdertoy.co.uk/)
+very cool physics simulation, and i highly suggest getting it (its free but you have to download it so just open this site at home and go to the link)
+
+[a dark room](https://adarkroom.doublespeakgames.com/)
+another game but it doesnt have a download, although it is blocked at school
+
+[universal paperclips](https://www.decisionproblem.com/paperclips/)
+basically a slighly more complicated version of cookie clicker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
