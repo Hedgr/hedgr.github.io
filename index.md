@@ -12,7 +12,7 @@ gets a random number between 2 numbers you can choose (plus a bit of QOL stuff)
 [A Bad Clock](https://github.com/Hedgr/time_test)
 its a bad clock that i made overcomplicated
 
-## ====== random interesting websites for your browsing ======
+## ==== random interesting websites for your browsing ====
 
 [google sky](https://google.com/sky)
 cool picture of the sky (also has google moon and mars available from the site)
