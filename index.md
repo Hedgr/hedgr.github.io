@@ -4,6 +4,9 @@
 
 this is where im gonna put the stuff i make that *probably* works
 
+[a random google sheet that anyone can edit](https://docs.google.com/spreadsheets/d/1iZABHQWZrLU6E-OBUmkvX-M_ttgbOU9n8Wr-ckXCHHE/edit?usp=sharing)
+
+
 [This Site](https://hedgr.github.io)   
 [this site on github's side](https://github.com/Hedgr/hedgr.github.io)
 this site but links for easy access
@@ -43,7 +46,7 @@ another game but it doesnt have a download, although it is blocked at school
 [universal paperclips](https://www.decisionproblem.com/paperclips/)
 basically a slighly more complicated version of cookie clicker
 
-<img src="https://www.politico.eu/wp-content/uploads/2018/09/GettyImages-1031578130-1160x797.jpg" alt="How Obama made it easier for Trump to launch a nuke – POLITICO"/>![image](https://user-images.githubusercontent.com/74436143/149588593-0118fe39-f5ed-48ec-8df9-53fd1513b03f.png)
+
 
 
 
