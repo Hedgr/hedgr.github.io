@@ -46,13 +46,17 @@ another game but it doesnt have a download, although it is blocked at school
 [universal paperclips](https://www.decisionproblem.com/paperclips/)
 basically a slighly more complicated version of cookie clicker
 
+[were all gonna die](https://outrider.org/nuclear-weapons/interactive/bomb-blast/)
+shows what happens when a nuke detonates somewhere (very cool)
 
+[song i made](https://musiclab.chromeexperiments.com/Song-Maker/song/6613628513419264)
+fun to mess around with. loud.
 
+[idk really but it looks really cool](https://epok.tech/work/tendrils/)
+title says it all
 
-
-
-
-
+[3d fractal stuff using a seed](http://www.hellochar.com/flame?name=the%20meaning%20of%20life)
+idk what else to say, it looks cool
 
 
 
