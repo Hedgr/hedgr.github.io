@@ -1,6 +1,6 @@
 ## welcome to hell
 
-# also if anyone tells a teacher about this i will burn you at the stake
+btw if anyone tells a teacher about this i will personally end them
 
 this is where im gonna put the stuff i make that *probably* works
 
