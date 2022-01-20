@@ -58,7 +58,8 @@ title says it all
 [3d fractal stuff using a seed](http://www.hellochar.com/flame?name=the%20meaning%20of%20life)
 idk what else to say, it looks cool
 
-
+[lots of *unblocked* games](https://sites.google.com/site/unblockedgame911/)
+credit for this one to bean
 
 
 
