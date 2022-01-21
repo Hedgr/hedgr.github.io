@@ -1,6 +1,6 @@
 ## welcome to hell
 
-btw if anyone tells a teacher about this i will personally end them
+btw if anyone tells a teacher about this i will personally end them (and its because i want this stuff to stay unblocked because its interesting and stuff so *please* dont go and tell some teacher and then all of this gets blocked until the end of time)
 
 this is where im gonna put the stuff i make that *probably* works
 
