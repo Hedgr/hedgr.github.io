@@ -18,6 +18,9 @@ gets a random number between 2 numbers you can choose (plus a bit of QOL stuff)
 [A Bad Clock](https://github.com/Hedgr/time_test)
 its a bad clock that i made overcomplicated
 
+[an interactive rhombus i think (change the variables)](https://www.desmos.com/calculator/wqdto2lzqj)
+i swear its interesting
+
 ## ==== random interesting websites for your browsing ====
 
 [google sky](https://google.com/sky)
