@@ -15,17 +15,18 @@ download - you can access it but it is a file that you have to download
      there are more but im lazy and will add them later
      UC - uncompiled, you will need a compiler to make these run (i suggest visual studio)
 
-[a random google sheet that anyone can edit](https://docs.google.com/spreadsheets/d/1iZABHQWZrLU6E-OBUmkvX-M_ttgbOU9n8Wr-ckXCHHE/edit?usp=sharing)
 
+[a random google sheet that anyone can edit](https://docs.google.com/spreadsheets/d/1iZABHQWZrLU6E-OBUmkvX-M_ttgbOU9n8Wr-ckXCHHE/edit?usp=sharing)
+the title says it all
 
 [This Site](https://hedgr.github.io)   
 [this site on github's side](https://github.com/Hedgr/hedgr.github.io)
 this site but links for easy access
 
-[(download (windows)) Roll the Dice](https://github.com/Hedgr/roll_the_dice)
+[(download (windows, UC)) Roll the Dice](https://github.com/Hedgr/roll_the_dice)
 gets a random number between 2 numbers you can choose (plus a bit of QOL stuff)
 
-[(download (windows)) A Bad Clock](https://github.com/Hedgr/time_test)
+[(download (windows, UC)) A Bad Clock](https://github.com/Hedgr/time_test)
 its a bad clock that i made overcomplicated
 
 [an interactive rhombus i think (change the variables)](https://www.desmos.com/calculator/wqdto2lzqj)
