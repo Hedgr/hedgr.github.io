@@ -23,6 +23,9 @@ i swear its interesting
 
 ## ==== random interesting websites for your browsing ====
 
+[colorhexa](https://www.colorhexa.com/)
+put in a color and you can get a bunch of things about it (it even has the color but changed to tell you if it would work for colorblind users
+
 [google sky](https://google.com/sky)
 cool picture of the sky (also has google moon and mars available from the site)
 
