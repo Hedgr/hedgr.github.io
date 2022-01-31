@@ -7,6 +7,14 @@ btw if anyone here wants to add some sites/complain at me: hedgr#8008 (discord)
 
 this is where im gonna put the stuff i make that *probably* works
 
+tags:
+download - you can access it but it is a file that you have to download
+     subtags:
+     windows - can (as far as i know) only run on windows
+     mac - same as ^ but with macs
+     there are more but im lazy and will add them later
+     UC - uncompiled, you will need a compiler to make these run (i suggest visual studio)
+
 [a random google sheet that anyone can edit](https://docs.google.com/spreadsheets/d/1iZABHQWZrLU6E-OBUmkvX-M_ttgbOU9n8Wr-ckXCHHE/edit?usp=sharing)
 
 
@@ -14,10 +22,10 @@ this is where im gonna put the stuff i make that *probably* works
 [this site on github's side](https://github.com/Hedgr/hedgr.github.io)
 this site but links for easy access
 
-[(download) Roll the Dice](https://github.com/Hedgr/roll_the_dice)
+[(download (windows)) Roll the Dice](https://github.com/Hedgr/roll_the_dice)
 gets a random number between 2 numbers you can choose (plus a bit of QOL stuff)
 
-[(download) A Bad Clock](https://github.com/Hedgr/time_test)
+[(download (windows)) A Bad Clock](https://github.com/Hedgr/time_test)
 its a bad clock that i made overcomplicated
 
 [an interactive rhombus i think (change the variables)](https://www.desmos.com/calculator/wqdto2lzqj)
@@ -34,7 +42,7 @@ cool picture of the sky (also has google moon and mars available from the site)
 [(blocked) the useless web](https://theuselessweb.com)
 another site dedicated to interesting sites
 
-[the food content of a wooden table (yes im serious)](https://www.myfitnesspal.com/food/calories/alfahores-196555419)
+[the food content of a wooden table (yes i am serious)](https://www.myfitnesspal.com/food/calories/alfahores-196555419)
 refer to title of the site
 
 [(sim) ray optics simulation](https://ricktu288.github.io/ray-optics/simulator/)
@@ -55,7 +63,7 @@ another game but it doesnt have a download, although it is blocked at school
 [(blocked) universal paperclips](https://www.decisionproblem.com/paperclips/)
 basically a slighly more complicated version of cookie clicker
 
-[were all gonna die](https://outrider.org/nuclear-weapons/interactive/bomb-blast/)
+[(sim) were all gonna die](https://outrider.org/nuclear-weapons/interactive/bomb-blast/)
 shows what happens when a nuke detonates somewhere (very cool)
 
 [(sound) song i made](https://musiclab.chromeexperiments.com/Song-Maker/song/6613628513419264)
