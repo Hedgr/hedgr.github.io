@@ -84,7 +84,8 @@ credit for this one to bean
 [bee movie script - ](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)
 its the bee movie script 
 
-
+[how long ago](http://www.calcul.com/show/calculator/how-long-since-or-until?first=1111/11/11%2011:11)
+its tells you how long it has been or how much time until some given time
 
 
 
