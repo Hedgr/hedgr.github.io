@@ -20,9 +20,8 @@ simulation (alias: sim) - it simulates something, such as water or gravity and s
 [a random google sheet that anyone can edit - ](https://docs.google.com/spreadsheets/d/1iZABHQWZrLU6E-OBUmkvX-M_ttgbOU9n8Wr-ckXCHHE/edit?usp=sharing)
 the title says it all
 
-[This Site](https://hedgr.github.io)   
-this site, as in right here
-
+[This Site](https://hedgr.github.io)
+this site, as in right here   
 [this site on github's side - ](https://github.com/Hedgr/hedgr.github.io)
 this site but links for easy access
 
