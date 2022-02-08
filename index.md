@@ -7,13 +7,20 @@ btw if anyone here wants to add some sites/complain at me: hedgr#8008 (discord)
 
 this is where im gonna put the stuff i make that *probably* works
 
-tags:
-download - you can access it but it is a file that you have to download
+# tags:
+
+download - you can access it but it is a file that you have to download it and/or something else
+
      subtags:
+     
      windows - can (as far as i know) only run on windows
+     
      mac - same as ^ but with macs
-     there are more but im lazy and will add them later
+     
+     there are more operating systems but im lazy and will add them later (probably only if it comes up)
+     
      UC - uncompiled, you will need a compiler to make these run (i suggest visual studio)
+     
 simulation (alias: sim) - it simulates something, such as water or gravity and such
 
 
@@ -31,8 +38,11 @@ gets a random number between 2 numbers you can choose (plus a bit of QOL stuff)
 [(download (windows, UC)) A Bad Clock - ](https://github.com/Hedgr/time_test)
 its a bad clock that i made overcomplicated
 
-[an interactive rhombus i think (change the variables) - ](https://www.desmos.com/calculator/wqdto2lzqj)
+[an interactive rhombus (change the variables) - ](https://www.desmos.com/calculator/wqdto2lzqj)
 i swear its interesting
+
+[destiny 2 loading animations be like - ](https://www.desmos.com/calculator/s5fdm1mejo)
+i was bored in math lol and also 
 
 ## ==== random interesting websites for your browsing ====
 
