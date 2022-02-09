@@ -9,19 +9,19 @@ this is where im gonna put the stuff i make that *probably* works
 
 # tags:
 
-download - you can access it but it is a file that you have to download it and/or something else
+> download - you can access it but it is a file that you have to download it and/or something else
 
-     subtags:
+>     subtags:
      
-     windows - can (as far as i know) only run on windows
+>     windows - can (as far as i know) only run on windows
      
-     mac - same as ^ but with macs
+>     mac - same as ^ but with macs
      
-     there are more operating systems but im lazy and will add them later (probably only if it comes up)
+>     there are more operating systems but im lazy and will add them later (probably only if it comes up)
      
-     UC - uncompiled, you will need a compiler to make these run (i suggest visual studio)
+>     UC - uncompiled, you will need a compiler to make these run (i suggest visual studio)
      
-simulation (alias: sim) - it simulates something, such as water or gravity and such
+>simulation (alias: sim) - it simulates something, such as water or gravity and such
 
 
 [a random google sheet that anyone can edit - ](https://docs.google.com/spreadsheets/d/1iZABHQWZrLU6E-OBUmkvX-M_ttgbOU9n8Wr-ckXCHHE/edit?usp=sharing)
