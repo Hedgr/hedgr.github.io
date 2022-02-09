@@ -10,17 +10,12 @@ this is where im gonna put the stuff i make that *probably* works
 # tags:
 
 > download - you can access it but it is a file that you have to download it and/or something else
-
 >     subtags:
-     
 >     windows - can (as far as i know) only run on windows
-     
 >     mac - same as ^ but with macs
-     
 >     there are more operating systems but im lazy and will add them later (probably only if it comes up)
-     
 >     UC - uncompiled, you will need a compiler to make these run (i suggest visual studio)
-     
+>     
 >simulation (alias: sim) - it simulates something, such as water or gravity and such
 
 
