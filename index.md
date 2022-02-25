@@ -41,6 +41,9 @@ i was bored in math lol and also
 
 ## ==== random interesting websites for your browsing ====
 
+[not entirely sure - ](https://www.sbnation.com/a/17776-football/chapter-1)
+its basically a short story about sentient space probes watching football in about 15 thousand years (i know this sounds terrible but i swear its interestig (especially if your bored in class))
+
 [colorhexa - ](https://www.colorhexa.com/)
 put in a color and you can get a bunch of things about it (it even has the color but changed to tell you if it would work for colorblind users
 
