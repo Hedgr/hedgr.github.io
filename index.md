@@ -90,7 +90,7 @@ idk what else to say, it looks cool
 credit for this one to bean
 
 [bee movie script - ](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)
-its the bee movie script 
+its the bee movie script, what do ya expect besides that
 
 [how long ago - ](http://www.calcul.com/show/calculator/how-long-since-or-until?first=1111/11/11%2011:11)
 its tells you how long it has been or how much time until some given time
@@ -104,7 +104,8 @@ in this ungodly mess, combine multiple images into one image using AI (includes 
 [(sound) the caretaker - everywhere at the end of time - ](https://www.youtube.com/watch?v=wJWksPWDKOc)
 idk what to say really, i suggest muting your computer and then looking at the videos description
 
-
+[pixilart - ](https://www.pixilart.com/)
+online art creation, its good (maybe use [colorhexa](https://www.colorhexa.com/) for colors) (suggested by isa)
 
 
 
