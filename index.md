@@ -92,17 +92,17 @@ credit for this one to bean
 [bee movie script - ](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)
 its the bee movie script 
 
-[how long ago](http://www.calcul.com/show/calculator/how-long-since-or-until?first=1111/11/11%2011:11)
+[how long ago - ](http://www.calcul.com/show/calculator/how-long-since-or-until?first=1111/11/11%2011:11)
 its tells you how long it has been or how much time until some given time
 
-[eyewire](https://eyewire.org/)
+[eyewire - ](https://eyewire.org/)
 very cool civilian science thing, you get to go through and reconstruct *actual* neurons
 
-[artbreeder](https://www.artbreeder.com/create)
-in this ungodly mess, combine multiple images into one image (includes anime girls)
+[artbreeder - ](https://www.artbreeder.com/create)
+in this ungodly mess, combine multiple images into one image using AI (includes anime girls lol)
 
-
-
+[(sound) the caretaker - everywhere at the end of time - ](https://www.youtube.com/watch?v=wJWksPWDKOc)
+idk what to say really, i suggest muting your computer and then looking at the videos description
 
 
 
