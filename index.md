@@ -110,19 +110,23 @@ online art creation, its good (maybe use [colorhexa](https://www.colorhexa.com/)
 [pointer pointer - ](https://pointerpointer.com/)
 gives you an image that points to wherever your mouse is, funny
 
+[hacker typer - ](https://hackertyper.com/)
+hack the mainframe or whatever, makes ya look like you know code, *basically* what i do in my free time totally
 
+[computer stat thing - ](http://www.ismycomputeron.com/)
+provides very accurate stats on all things about your computer, very interesting i swear
 
+[(sound) drawing garden - ](http://drawing.garden/)
+i will give you like 2$ if you manage to get it all red (like the same red as tomatoes, the mushrooms dont count)
 
+[illusion thingy - ](https://strobe.cool/)
+just follow the instructions in the site
 
+[mess with the teachers - ](http://www.patience-is-a-virtue.org/)
+(i think) perpetually shows a loading animation, which might mess with the teachers
 
-
-
-
-
-
-
-
-
+[blank windows - ](https://www.blankwindows.com/)
+archaeology sim 2022
 
 
 
