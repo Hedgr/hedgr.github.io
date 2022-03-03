@@ -107,10 +107,10 @@ idk what to say really, i suggest muting your computer and then looking at the v
 [pixilart - ](https://www.pixilart.com/)
 online art creation, its good (maybe use [colorhexa](https://www.colorhexa.com/) for colors) (suggested by isa)
 
-[pointer pointer - ](https://pointerpointer.com/)
+[(blocked) pointer pointer - ](https://pointerpointer.com/)
 gives you an image that points to wherever your mouse is, funny
 
-[hacker typer - ](https://hackertyper.com/)
+[(blocked) hacker typer - ](https://hackertyper.com/)
 hack the mainframe or whatever, makes ya look like you know code, *basically* what i do in my free time totally
 
 [computer stat thing - ](http://www.ismycomputeron.com/)
@@ -125,7 +125,7 @@ just follow the instructions in the site
 [mess with the teachers - ](http://www.patience-is-a-virtue.org/)
 (i think) perpetually shows a loading animation, which might mess with the teachers
 
-[blank windows - ](https://www.blankwindows.com/)
+[(blocked) blank windows - ](https://www.blankwindows.com/)
 archaeology sim 2022
 
 
