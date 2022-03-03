@@ -107,7 +107,8 @@ idk what to say really, i suggest muting your computer and then looking at the v
 [pixilart - ](https://www.pixilart.com/)
 online art creation, its good (maybe use [colorhexa](https://www.colorhexa.com/) for colors) (suggested by isa)
 
-
+[pointer pointer - ](https://pointerpointer.com/)
+gives you an image that points to wherever your mouse is, funny
 
 
 
